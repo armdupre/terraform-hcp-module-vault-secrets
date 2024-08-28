@@ -1,0 +1,3 @@
+locals {
+	HcpVaultSecretsAppName = var.HcpVaultSecretsAppName
+}
